@@ -5,6 +5,8 @@ I'm working as a freelance software engineer in the bay area, California, but I'
 
 Some current big projects are my website https://www.cyberpunkcoder.com, and my little space game called Reaction Control. https://www.github.com/cyberpunkcoder/reaction-control
 
+Older (but complete) projects include a modular golang discord bot https://www.github.com/cyberpunkcoder/gobot, a script to automatically install the latest version of golang (and optionally pixel game engine) https://www.github.com/cyberpunkcoder/golang-pixel-installer and a raspberry pi based vending machine framework written in Java https://www.github.com/cyberpunkcoder/spoolr
+
 <!--
 **cyberpunkcoder/cyberpunkcoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
