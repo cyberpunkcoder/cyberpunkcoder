@@ -1,7 +1,7 @@
 <img src="banner.jpg" />
 
 ### Hi there 👋, I'm cyberpunkcoder!
-I'm working as a freelance software engineer in the bay area, California, but I'm looking for a more permanent full-time  or part-time job. If you are interested in hiring me I would love to speak with you! I've started working with Golang this year and I'm very interested in what the future holds for this exciting language. You'll find that my most recent projects are most likely written in Go!
+I'm working as a Backend Engineer in the bay area, California. If you are interested in any of my projects feel free to shoot me an email or such! I'm a big proponent of Golang and I'm exited to discover what the future holds! You'll find that my most recent projects are written in Go!
 
 Some current big projects are [my website](https://www.cyberpunkcoder.com), and my little space game called [Reaction Control](https://www.github.com/cyberpunkcoder/reaction-control).
 
